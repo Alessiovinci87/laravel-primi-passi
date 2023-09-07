@@ -35,6 +35,6 @@
                 <li><a href="/">Contact</a></li>
                 <li><a href="/about">About</a></li>
             </ul>
-        </nav> --}}
+        </nav> --}} 
     </body>
 </html>
